@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Pedro Luis Parrales",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@pedroluisparrales"
+  },
+  "words": [
+    { "id": 1, "en": "cow", "es": "vaca" },
+    { "id": 2, "en": "sheep", "es": "oveja" },
+    { "id": 3, "en": "goat", "es": "cabra" },
+    { "id": 4, "en": "deer", "es": "ciervo" }
+  ]
+}
