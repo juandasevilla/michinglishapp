@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Alex Franco Imbacuan Culchac",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@AlexImbacuan"
+  },
+  "words": [
+    { "id": 1, "en": "giraffe", "es": "jirafa" },
+    { "id": 2, "en": "fish", "es": "pescado" },
+    { "id": 3, "en": "owl", "es": "búho" },
+    { "id": 4, "en": "crocodile", "es": "cocodrilo" }
+  ]
+}
