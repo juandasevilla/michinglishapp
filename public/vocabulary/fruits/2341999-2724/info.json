@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Juan Rojas",
+    "profileImage": "https://i.pinimg.com/originals/82/fa/03/82fa0314ea6f882c22a712bf289c2fa9.jpg",
+    "socialLink": "@cazatrolas_nerfeado"
+  },
+  "words": [
+    { "id": 1, "en": "mango", "es": "mango" },
+    { "id": 2, "en": "pineapple", "es": "piña" },
+    { "id": 3, "en": "cherry", "es": "cereza" },
+    { "id": 4, "en": "peach", "es": "durazno" }
+  ]
+}
