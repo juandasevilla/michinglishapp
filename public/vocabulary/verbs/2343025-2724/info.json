@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Olman Alexander Silva",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@Alexander_7"
+  },
+  "words": [
+    { "id": 1, "en": "leave", "es": "partir" },
+    { "id": 2, "en": "sleep", "es": "dormir" },
+    { "id": 3, "en": "build", "es": "construir" },
+    { "id": 4, "en": "sing", "es": "cantar" }
+  ]
+}
